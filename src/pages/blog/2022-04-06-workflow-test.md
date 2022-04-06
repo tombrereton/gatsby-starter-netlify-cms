@@ -8,11 +8,8 @@ featuredimage: /img/camylla-battani-a5e-ym6wygm-unsplash.jpg
 tags:
   - tag
   - another-tag
-  - thomas
-  - poo
+  - ""
 ---
 This is the body. **Bold text**.
 
 # I'm a heading
-
-Thomas is a poo
